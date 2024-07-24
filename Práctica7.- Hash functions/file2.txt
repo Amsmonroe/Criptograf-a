@@ -1,0 +1,67 @@
+05/09/2023
+todos los procesadores poseen bloques
+además cuentan con las unidades básicas 
+
+2 tipos de procesadores(unidad de control)
+monoprocesador: no es aplicable, solo es útil para fines 
+didácticos.
+
+conjunto de registros= archivos de registro 
+
+EJEMPLOS DE REGISTROS DE PROPÓSITO ESPECIFICO:
+registro de estado
+registro de instruccion
+
+Registro de estado: almacena info relativa acerca de las 
+caracteristicas del resultado de la ultima operación 
+realizada de la unidad aritmetico-lógica
+
+acarreo != de desbordamiento 
+
+ACUMULADOR: Guarda temporalmente el resultado de la 
+última operación realizada por la unidad aritmetico-lógica 
+
+ARQUITECTURA DEL COMPUTADOR= Parte visible de la computadora
+
+
+El silicio es la base de los chips 
+
+
+16 32 o 64 flip flop serán nuestros registros de instrucción
+
+cada campo tiene un nombre y desempeña un papel o una función 
+
+PARTES QUE CONFORMAN AL FORMATO DE INSTRUCCIONES 
+# de bit
+# de campos
+nombres de los campos
+funcion o rol que desempeña cada campo
+
+
+
+LENGUAJE :Un lenguaje es un conjunto de atributos llamado gramática
+
+Conjunto de simbolos llamado alfabeto
+conjunto de reglas llamadas reglas léxicas para formar palabras 
+conjunto de reglas llamadas reglas sintácticas para formar oraciones
+reglas semanticas para interpretar el sentido de esa oración
+
+
+LENGUAJE DE ALTO NIVEL: lenguaje que se aproxima al lenguaje humano 
+
+CODIGO FUENTE: Un programa escrito de primera mano (el que capturamos en nuestras computadoras), 
+PROGRAMA: Es un conjunto de instrucciones que tiene como proposito resolver una tarea especificada por el programador
+LENGUAJE ENSAMBLADOR: Conserva todos los atributos de la definición del lenguaje.
+El conjunto de simbolos de su alfabeto es el inglés (TODOS LOS SIMBOLOS PARTIENDO DEL INGLÉS), es el lenguaje más cercano al lenguje maquina
+
+CODIGO ENSAMBLADOR:Es un programa escrito en lenguaje ensamblador
+LENGUJAE MÁQUINA:Conserva todos los atributos de la definición del lenguaje, sus simbolos son en código binario 
+
+CODIGO MAQUINA:Es un programa escrito en lenguaje maquina.
+
+
+
+CUALES SON LOS BLOQUES BASICOS DE UN ARCHIVO VHDL IMPLEMENTABLE
+1) Encabezado (bibliotecas)
+2)Entidad
+3) Arquitectura

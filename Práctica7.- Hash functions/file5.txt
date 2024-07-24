@@ -1,0 +1,46 @@
+
+CLASE 5  08-09-23
+REPASO DE CLASES
+
+
+
+ARQUITECTURA ISA: Posee 4 bloques
+
+ARQUITECTURA DEL PROCESADOR=ARQUITECTURA ISA
+-> Son atributos de un sistema que tienen un impacto directo en la 
+ejecución logica de un programa en lenguaje ensamblador 
+
+CONJUNTO DE INSTRUCCIONES(SET DE INSTRUCCIONES) COMPUESTO POR:
+
+1)Número de instrucciones
+2)Clasificación de las instrucciones 
+3)Tipos de operaciones
+
+
+TECNICAS DE DIRECCIONAMIENTO
+-Implicito
+-Inmediato
+-Directo
+-Indirecto
+-Con registro 
+
+REGISTROS DEL PROCESADOR 
+Hay 2 tipos de este Registro:
+de proposito especifico : tienen una función bien definida, el
+ programador no puede cambiarlo
+
+y de proposito gral: Son usables por el usuario
+
+
+OTROS REGISTROS DEL PROCESADOR
+
+-Registro de instrucción o buffer de instrucción(IR)
+-Acumulador
+-Buffer de datos(MDR)
+-Buffer de direcciones(MAR)
+-Registro de estados 
+-Registros de propósito general
+
+QtSPIM
+
+

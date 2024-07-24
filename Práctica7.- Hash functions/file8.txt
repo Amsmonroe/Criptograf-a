@@ -1,0 +1,21 @@
+Tarea:
+Encabezado, bibliotecas y paquetes 
+se colocan las siguientes librerias
+
+entidad nombre y nombre del archivo 
+
+
+TAREA 2:
+
+son 3 
+1) flujo de datos (es enunciativa)
+las señales pasan de las entradas a las salidas directamente o via una función 
+caracteristicas: se utilizan para programar circuitos combinatorios
+2) algoritmico/funcional/Behavereal /comportamental (se define por sus caracteristicas)
+caracteristicas:se utiliza principalmente para programar circuitos secuenciales 
+los circuitos secuenciales (tienen como nucleo al flipflop)
+3)Estructural o jerarquico  (se define por sus caracteristicas)
+caracteristicas: está compuesto por uno o más bloques jerarquicos (debe tener al menos 2 bloques)
+¿COMO DEFINIR UN CONCEPTO?
+Hay 2 formas de forma enunciativa o por sus caractericas del concepto
+
